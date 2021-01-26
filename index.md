@@ -12,7 +12,7 @@ This is a tool that helps you to move around your cursor for as long as you like
 Have you ever wondered why your IG followers dropped again? Who decided to unfollow you without you knowing? Yes, find out who they are and you should probably unfollow them too.
 
 
-### Book your favorite skating rink __Upcoming__
+### Book your favorite skating rink (Upcoming)
 
 Designed to cope with th 8AM booking madness of reserving a leisure skate at one of the [City of Toronto skating rinks](https://efun.toronto.ca/TorontoFun/Activities/ActivitiesAdvSearch.asp?SectionId=119&SubSectionId=179) during provincial lockdown. This program is going to help you select your fav rinks close to you and automatically book for you. 
 
