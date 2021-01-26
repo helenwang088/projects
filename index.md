@@ -14,7 +14,7 @@ Have you ever wondered why your IG followers dropped again? Who decided to unfol
 
 ### Book your favorite skating rink (Upcoming)
 
-Designed to cope with th 8AM booking madness of reserving a leisure skate at one of the [City of Toronto skating rinks](https://efun.toronto.ca/TorontoFun/Activities/ActivitiesAdvSearch.asp?SectionId=119&SubSectionId=179) during provincial lockdown. This program is going to help you select your fav rinks close to you and automatically book for you. 
+Designed to cope with the 8AM booking madness of reserving a leisure skate at a [City of Toronto skating rink](https://efun.toronto.ca/TorontoFun/Activities/ActivitiesAdvSearch.asp?SectionId=119&SubSectionId=179) during provincial lockdown. This program is going to help you select your fav rinks close to you and automatically book for you. 
 
 A work in progress...
 
