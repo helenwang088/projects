@@ -1,5 +1,5 @@
-## Check out my TOP 3 favorite programs
-These programs are 
+## Check out my TOP 3 favorite projects
+I wrote all of these during the magical year of 2020. I hope you will love them too.
 
 
 ### Auto clicker
@@ -14,7 +14,7 @@ This program helps you see which of your followers decided you unfollow you with
 
 ### Book your favorite skating rink ```__Upcoming__```
 
-Designed to cope with th 8AM booking madness of reserving a leisure skate at one of the [ity of Toronto skating rinks](https://efun.toronto.ca/TorontoFun/Activities/ActivitiesAdvSearch.asp?SectionId=119&SubSectionId=179). This program is going to help you select your fav rinks close to you and automatically book for you. A work in progress.
+Designed to cope with th 8AM booking madness of reserving a leisure skate at one of the [ity of Toronto skating rinks](https://efun.toronto.ca/TorontoFun/Activities/ActivitiesAdvSearch.asp?SectionId=119&SubSectionId=179) during provincial lockdown. This program is going to help you select your fav rinks close to you and automatically book for you. A work in progress.
 
 
 ### Contact Me
