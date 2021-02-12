@@ -7,7 +7,7 @@ I wrote all of these during the magical year of 2020. I hope you will love them 
 This is a tool that helps you to move around your cursor for as long as you like. Definitely NOT designed to use at work.
 
 
-### Instagram unfollower
+### [Instagram unfollower](https://github.com/helenwang088/projects/blob/gh-pages/IG%20unfollower/instagram.py)
 
 Have you ever wondered why your IG followers dropped again? Who decided to unfollow you without you knowing? Yes, find out who they are and you should probably unfollow them too.
 
