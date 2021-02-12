@@ -19,9 +19,27 @@ Designed to cope with the 8AM booking madness of reserving a leisure skate at a 
 A work in progress...
 
 
+## Check out some work-related quick hacks
+
+### Split-and-save
+
+Dealing with a master spreadsheet? This macro helps you split up tabs and save them individually into a folder with tab names as file names. 
+
+
+### IT tickets summary
+
+This macro allows you to upload multiple IT help desk tickets in PDF and summarizes key information defined by you (e.g. requester, resolution time, etc) on a single Excel worksheet. You can take a quick glance and get the big picture in less than 1 minute. If you are an auditor, then this "bot" might have done your job for you.
+
+
+
 ### Contact Me
 
-If you like any of these projects, please bookmark [this page](https://helenwang088.github.io/projects) and feel free to contact me:
+If you like any of these projects, please bookmark this page and feel free to contact me:
 
 **Email**: helenwang088@Hotmail.com
+
+**LinkedIn**: [Helen Wang](https://www.linkedin.com/in/helenwang088)
+
+**Instagram** (for art inquiries): [Hw_amazingart](https://www.instagram.com/hw_amazingart)
+
 
